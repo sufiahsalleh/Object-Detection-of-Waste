@@ -3,22 +3,22 @@
 This is an object detection project. It is used to detect 3 type of waste which are glass, metal and plastic.
 
 <h1>Description</h1>
+<table>
+    <tr>
+    <td align="center">Testing with Test Dataset</td>
+    <td align="center">Testing with Webcam</td></td>
+    </tr>
+    <tr>
+    <td align="center"><img src="https://github.com/sufiahsalleh/sufiahsalleh.github.io/blob/main/assets/img/5vdatj.gif" alt="Test with Testing Dataset" width="80%" height="20%"</td>
+    <td align="center"><img src="https://github.com/sufiahsalleh/sufiahsalleh.github.io/blob/main/assets/img/5vdewu.gif" alt="Test with Webcam" width="80%" height="80%"></td>
+    </tr>
+</table>
 
-1. SOO MANN SIAN (CA16050)<br>
-2. SUFIAH AFIRA BINTI SALLEH (CB17025)<br>
-3. NORRULANNAH BINTI HASHIM (CB17023)<br>
-4. HARIZA AINA BINTI MOHD HARAFI (CB17178)<br>
-5. NOR SULEHHAYANA BINTI MOHAMMAD SALLEH (CB17011)<br>
-6. MOHD AIDIL BIN ZAIDAN (CB17031)
-<hr>
-<h1>JomS SYSTEM</h1> 
-JomS or JomSewa system that consists of 3 user which is Admin, Driver and Customer. This system is for customer to book a driver or to rent a car. This system is fully develop by using HTML, CSS, PHP, and MySQL.
-<hr>
-<h1>PREVIEW</h1>
-<div align="left">
-    <img src="https://github.com/sufiahsalleh/JomS/blob/master/images/mainpage.png" width="600px"</img> 
-    <br>
-    <img src="https://github.com/sufiahsalleh/JomS/blob/master/images/customerprofile.png" width="600px"</img>
-    <br>
-    <img src="https://github.com/sufiahsalleh/JomS/blob/master/images/booking.png" width="600px"</img>
-</div> 
+<h1>Motivation of the idea</h1>
+<h1>Data Set Sources</h1>
+<h1>Network Description</h1>
+<h1>Model Training</h1>
+<h1>Testing</h1>
+<h1>Future Development</h1>
+<h1>Contact information</h1>
+<h1>List of Group members</h1>
