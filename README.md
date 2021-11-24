@@ -17,7 +17,7 @@ This is an object detection project. It is used to detect 3 type of waste which 
 <h1>Motivation of the idea</h1>
 
 - We also inspired to do this object detection waste for education purpose which to help kids in learning that there is many type of waste that can be recycled.
-- This project also our CDLE capstone project.This project also our CDLE capstone project.
+- This project also our CDLE capstone project.
 
 <h1>Data Set Sources</h1>
 
