@@ -20,5 +20,8 @@ This is an object detection project. It is used to detect 3 type of waste which 
 <h1>Model Training</h1>
 <h1>Testing</h1>
 <h1>Future Development</h1>
-<h1>Contact information</h1>
+
 <h1>List of Group members</h1>
+
+- Norruljannah binti Hashim, njannah.hashim@gmail.com
+- Sufiah Afira binti Salleh, sufiah.afira01@gmail.com
