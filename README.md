@@ -26,10 +26,10 @@ This is an object detection project. It is used to detect 3 type of waste which 
 - 80% of the data was utilized for training, while 20% was used for testing.
 
 <h1>Network Description</h1>
-The Pre-trained Tiny Yolo comprised 9 convolutions layer with 6 max pooling. We fine-tuning the output layer for classification.
+The architecture of Tiny-Yolo-v2, which consists of 9 convolutional layers, each with a leaky rectified linear unit (ReLU) based activation function and batch normalization operation interspersed with 6 max-pooling layers and a region layer
 
 <h1>Model Training</h1>
-We used <b>tiny YOLO</b> model.
+We used <b>Tiny-Yolo-v2</b> model.  Tiny-Yolo-v2 employs feedforward process for object detection.
 
 <h1>Testing</h1>
 <table>
