@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>plastic28.jpg</filename>
+	<path>C:\Users\sufiah\IdeaProjects\cdle-group-5-main\project\src\main\resources\waste\train\plastic28.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>600</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plastic</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>128</xmin>
+			<ymin>11</ymin>
+			<xmax>591</xmax>
+			<ymax>326</ymax>
+		</bndbox>
+	</object>
+</annotation>
