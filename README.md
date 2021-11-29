@@ -38,8 +38,8 @@ We used <b>Tiny-Yolo-v2</b> model.  Tiny-Yolo-v2 employs feedforward process for
     <td align="center">Testing with Webcam</td></td>
     </tr>
     <tr>
-    <td align="center"><img src="https://github.com/sufiahsalleh/sufiahsalleh.github.io/blob/main/assets/img/5vdatj.gif" alt="Test with Testing Dataset" width="80%" height="20%"</td>
-    <td align="center"><img src="https://github.com/sufiahsalleh/sufiahsalleh.github.io/blob/main/assets/img/5vdewu.gif" alt="Test with Webcam" width="80%" height="80%"></td>
+    <td align="center"><img src="https://github.com/sufiahsalleh/sufiahsalleh.github.io/blob/main/assets/img/5vynd5.gif" alt="Test with Testing Dataset" width="80%" height="20%"</td>
+    <td align="center"><img src="https://github.com/sufiahsalleh/sufiahsalleh.github.io/blob/main/assets/img/5vynjj.gif" alt="Test with Webcam" width="80%" height="80%"></td>
     </tr>
 </table>
 
