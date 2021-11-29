@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>glass5.jpg</filename>
+	<path>C:\Users\sufiah\IdeaProjects\cdle-group-5-main\project\src\main\resources\waste\test\glass5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1500</width>
+		<height>1500</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>glass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>266</xmin>
+			<ymin>179</ymin>
+			<xmax>1412</xmax>
+			<ymax>1297</ymax>
+		</bndbox>
+	</object>
+</annotation>
