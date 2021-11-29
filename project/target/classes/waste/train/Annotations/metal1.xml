@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>metal1.jpg</filename>
+	<path>C:\Users\sufiah\IdeaProjects\cdle-group-5-main\project\src\main\resources\waste\train\metal1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>534</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>metal</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>128</ymin>
+			<xmax>787</xmax>
+			<ymax>415</ymax>
+		</bndbox>
+	</object>
+</annotation>

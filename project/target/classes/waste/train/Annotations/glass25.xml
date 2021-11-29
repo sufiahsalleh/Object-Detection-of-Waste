@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>glass25.jpg</filename>
+	<path>C:\Users\sufiah\IdeaProjects\cdle-group-5-main\project\src\main\resources\waste\train\glass25.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>800</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>glass</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>200</ymin>
+			<xmax>785</xmax>
+			<ymax>603</ymax>
+		</bndbox>
+	</object>
+</annotation>
