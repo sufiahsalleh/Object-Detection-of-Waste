@@ -151,7 +151,7 @@ public class MyProject {
                 .addLayer("conv2d_9",
                         new ConvolutionLayer.Builder( 3,3)
                                 .nIn(1024) //input size that effect the grid size
-                                .nOut(nBoxes * (5 + nClasses)) //Output Tensor = fttb is (13,13,425)
+                                .nOut(nBoxes * (5 + nClasses)) //Output Tensor = (13,13,40)
                                 .stride(1, 1)
                                 .convolutionMode(ConvolutionMode.Same)
                                 .weightInit(WeightInit.XAVIER)
